@@ -1,0 +1,13 @@
+/*imagem de background na página inteira */
+body {
+    background-image: url("https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3---pl/dks3background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+/*mudar a fonte do navbar para Optimus Princeps */
+.navbar {
+    font-family: 'Optimus Princeps';
+}
